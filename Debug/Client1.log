@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\GAMETECH\Semester 4\Arsitektur dan Jaringan Komputer (Pak Fahim)\Client1\Client1\main.cpp(25,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Client1.vcxproj -> D:\GAMETECH\Semester 4\Arsitektur dan Jaringan Komputer (Pak Fahim)\Client1\Debug\Client1.exe
