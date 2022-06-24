@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\GAMETECH\Semester 4\Arsitektur dan Jaringan Komputer (Pak Fahim)\Server1\Server1\main.cpp(12,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\GAMETECH\Semester 4\Arsitektur dan Jaringan Komputer (Pak Fahim)\Server1\Server1\main.cpp(79,23): warning C4018: '<': signed/unsigned mismatch
+D:\GAMETECH\Semester 4\Arsitektur dan Jaringan Komputer (Pak Fahim)\Server1\Server1\main.cpp(109,24): warning C4018: '<': signed/unsigned mismatch
+  Server1.vcxproj -> D:\GAMETECH\Semester 4\Arsitektur dan Jaringan Komputer (Pak Fahim)\Server1\Debug\Server1.exe
