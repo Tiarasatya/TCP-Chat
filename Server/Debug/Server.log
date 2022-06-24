@@ -1,4 +1,0 @@
-﻿  main.cpp
-D:\GAMETECH\Semester 4\Arsitektur dan Jaringan Komputer (Pak Fahim)\Server\Server\main.cpp(9,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
-D:\GAMETECH\Semester 4\Arsitektur dan Jaringan Komputer (Pak Fahim)\Server\Server\main.cpp(101,2): warning C4551: function call missing argument list
-  Server.vcxproj -> D:\GAMETECH\Semester 4\Arsitektur dan Jaringan Komputer (Pak Fahim)\Server\Debug\Server.exe
